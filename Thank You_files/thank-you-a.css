@@ -210,7 +210,7 @@ body {
 
 @font-face {
   font-family: antonioregular;
-  src: url("/media/fonts/fx-lifestyle/antonio-regular-webfont.woff2") format("woff2"), url("/media/fonts/fx-lifestyle/antonio-regular-webfont.woff") format("woff");
+  src: url("./antonio-regular-webfont.woff2") format("woff2"), url("./antonio-regular-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
