@@ -2,37 +2,37 @@
   font-family: 'Zilla Slab';
   font-weight: normal;
   font-style: normal;
-  src: url("/./ZillaSlab-Regular.woff2") format("woff2"), url("/./ZillaSlab-Regular.woff") format("woff"); }
+  src: url("./ZillaSlab-Regular.woff2") format("woff2"), url("./ZillaSlab-Regular.woff") format("woff"); }
 
 @font-face {
   font-family: 'Zilla Slab';
   font-weight: bold;
   font-style: normal;
-  src: url("/./ZillaSlab-Bold.woff2") format("woff2"), url("/./ZillaSlab-Bold.woff") format("woff"); }
+  src: url("./ZillaSlab-Bold.woff2") format("woff2"), url("./ZillaSlab-Bold.woff") format("woff"); }
 
 @font-face {
   font-family: 'Zilla Slab';
   font-weight: normal;
   font-style: italic;
-  src: url("/./ZillaSlab-RegularItalic.woff2") format("woff2"), url("/./ZillaSlab-RegularItalic.woff") format("woff"); }
+  src: url("./ZillaSlab-RegularItalic.woff2") format("woff2"), url("./ZillaSlab-RegularItalic.woff") format("woff"); }
 
 @font-face {
   font-family: 'Zilla Slab';
   font-weight: bold;
   font-style: italic;
-  src: url("/./ZillaSlab-BoldItalic.woff2") format("woff2"), url("/./ZillaSlab-BoldItalic.woff") format("woff"); }
+  src: url("./ZillaSlab-BoldItalic.woff2") format("woff2"), url("./ZillaSlab-BoldItalic.woff") format("woff"); }
 
 @font-face {
   font-family: 'Open Sans';
   font-weight: normal;
   font-style: normal;
-  src: url("/./opensans-regular.woff2") format("woff2"), url("/./opensans-regular.woff") format("woff"); }
+  src: url("./opensans-regular.woff2") format("woff2"), url("./opensans-regular.woff") format("woff"); }
 
 @font-face {
   font-family: 'Open Sans';
   font-weight: bold;
   font-style: normal;
-  src: url("/./opensans-bold.woff2") format("woff2"), url("/./opensans-bold.woff") format("woff"); }
+  src: url("./opensans-bold.woff2") format("woff2"), url("./opensans-bold.woff") format("woff"); }
 
 article, aside, details, figcaption, figure, footer, header,
 hgroup, main, nav, section, summary {
